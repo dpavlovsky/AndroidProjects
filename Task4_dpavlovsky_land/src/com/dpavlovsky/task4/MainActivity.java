@@ -7,7 +7,7 @@ import java.util.Date;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Resources;
-//import android.net.Uri;
+import android.net.Uri;
 import android.os.Bundle;
 //import android.os.PowerManager;
 //import android.util.Log;
