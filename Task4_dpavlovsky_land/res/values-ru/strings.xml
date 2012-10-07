@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Менеджер заправок</string>
+    <string name="benzin">Бензин</string>
+    <string name="diesel">Дизель</string>
+    <string name="fullTank">Полный бак</string>
+    <string name="descr">Описание</string>
+    <string name="add">Добавить запись</string>
+    <string name="tagged_string"><b>Добавить</b> <i>запись</i></string> 
+    <string name="fullFilled">Залит полный бак</string>
+    <string name="notFullFilled">Залит неполный бак</string>
+    
+    <string-array name="volume">
+        <item>"5"</item>
+        <item>"10"</item>
+        <item>"20"</item>
+        <item>"30"</item>
+        <item>"40"</item>
+        <item>"50"</item>
+    </string-array>
+
+</resources>
